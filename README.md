@@ -1,4 +1,4 @@
-#!/bin/bash
+#Update Ubuntu
 
 ```
 sudo apt-get update
